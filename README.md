@@ -44,4 +44,4 @@
 
 ## License
 
-We provide the content in this repository for the class participants under the following [license](./LICENSE). GitHub provides the course slide deck and is not for redistribution. Atmosera provides the course outline and is not for redistribution. Cloud Contraptions LLC and its subsidiaries offer the remaining course content, which is not for redistribution.
+We provide the content in this repository for the class participants under the following [license](./LICENSE). GitHub provides the course slide deck and is not for redistribution. Atmosera provides the course outline and remaining content which is not for redistribution.
