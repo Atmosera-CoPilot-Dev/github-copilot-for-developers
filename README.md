@@ -4,7 +4,7 @@
 
 ## Schedule
 
-- 2.75 - hour session (10:10 am - 12:50 pm ET)
+- 3 hour session
 - 15 mins break about half-way through
 - Open Q&A - last 30 mins
 
@@ -12,22 +12,28 @@
 
 ## Outline
 
-- Copilot Overview
-- IDE and Visual Studio Code
-  - Configure Copilot in the IDE
-  - Copilot and Context
-  - Copilot Suggestions
-  - Human Language to Programming Language and Back
+- GitHub Copilot Overview
+  - Many Copilots, but only one GitHub Copilot
+  - GitHub Copilot Features
+  - Subscription Plans
+  - GitHub Copilot Extensions
+  - Code Suggestions, Chat, and Copilot Edits
+  - Public Code Matches
+  - Privacy and Security
+- Editors and IDEs Extensions
+  - Connect GitHub Copilot to Your Editor
+  - GitHub Copilot Suggestions
+  - GitHub Copilot and Context
+  - Human Language to Computer Language
   - Programming Language to Programming Language
-  - Fix Code
-  - Generate Unit Tests
-  - Document Code
-  - Copilot Chat Beyond Programming
-- Copilot Chat and Prompt Engineering
-  - Chat with Copilot
+  - Generate Code & Unit Tests
+  - Fix & Improve Code
+  - Discuss & Document Code
+- GitHub Copilot Chat and Prompt Engineering
+  - Chat with GitHub Copilot
   - Prompt Engineering
-  - Copilot Chat and Prompt Engineering
-  - Copilot Chat and Prompt Engineering in Practice
+  - GitHub Copilot Chat and Prompt Engineering
+  - GitHub Copilot Chat and Prompt Engineering in Practice
 
 ## Courseware
 
